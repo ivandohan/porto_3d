@@ -11,7 +11,7 @@ const Section = styled.section`
 const RightSection = () => {
     return (
         <Section>
-            Right
+            Right Hulk
         </Section>
     );
 }
