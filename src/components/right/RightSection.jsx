@@ -13,6 +13,8 @@ const RightSection = () => {
         <Section>
             Right Hulk
         </Section>
+
+        // JJ
     );
 }
 
