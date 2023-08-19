@@ -14,10 +14,7 @@ const RightSection = () => {
             Right Hulk
         </Section>
 
-        // JJ
-        // Hulk
-        // Hulk
-        // Hulkgit
+    // Rungkad
     );
 }
 
