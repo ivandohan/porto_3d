@@ -15,6 +15,7 @@ const RightSection = () => {
         </Section>
 
     // Rungkad
+    // Gjdi
     );
 }
 
