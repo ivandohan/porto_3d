@@ -4,7 +4,7 @@ import { styled } from 'styled-components';
 const Container = styled.div`
     flex: 3;
     background-color: #110834;
-    padding: 20px;
+    padding: 10px;
 `;
 
 const Words = styled.div`
