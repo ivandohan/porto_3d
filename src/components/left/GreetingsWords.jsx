@@ -4,7 +4,6 @@ import { styled } from 'styled-components';
 const Container = styled.div`
     flex: 3;
     background-color: #110834;
-    padding: 50px;
 `;
 
 const Words = styled.div`
