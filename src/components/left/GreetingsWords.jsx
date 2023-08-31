@@ -22,7 +22,7 @@ const GreetingsWords = () => {
             <Words>
                 <p>
                     Hi, Gizem! <br />
-                    Welcome to <br />
+                    Welcome to My<br />
                     my portofolio website.
                 </p>
             </Words>
