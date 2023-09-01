@@ -21,7 +21,7 @@ const GreetingsWords = () => {
         <Container>
             <Words>
                 <p>
-                    Hi, Gizem! <br />
+                    Hi, Gizemuu! <br />
                     Welcome to My<br />
                     my portofolio website.
                 </p>
