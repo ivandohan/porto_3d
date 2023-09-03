@@ -15,6 +15,7 @@ const LeftCardItem = ({ id }) => {
     return (
         <Container>
             Card {id} OKe
+            Hulkkk
         </Container>
     )
 }
