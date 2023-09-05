@@ -17,6 +17,7 @@ const LeftCardItem = ({ id }) => {
             Card {id} OKe
             Hulkkk
             Again?
+            again and again?
         </Container>
     )
 }
