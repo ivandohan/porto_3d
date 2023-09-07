@@ -12,6 +12,7 @@ const LeftCards = () => {
         <Container>
             <LeftCardItem id={"1"} />
             <LeftCardItem id={"2"} />
+            <LeftCardItem id={"3"} />
         </Container>
     );
 }
