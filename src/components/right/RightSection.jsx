@@ -13,9 +13,6 @@ const RightSection = () => {
         <Section>
             Right Hulk
         </Section>
-
-    // Rungkad
-    // Gjdi
     );
 }
 

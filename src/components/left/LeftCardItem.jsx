@@ -14,7 +14,7 @@ const Container = styled.div`
 const LeftCardItem = ({ id }) => {
     return (
         <Container>
-            Card {id} OKe
+            Card {id}
         </Container>
     )
 }
