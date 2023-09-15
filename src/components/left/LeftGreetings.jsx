@@ -12,7 +12,7 @@ const LeftGreetings = () => {
     return (
         <Container>
             <GreetingsWords />
-
+                Jinx
             <GreetingsBar />
         </Container>
     );
