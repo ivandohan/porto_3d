@@ -14,6 +14,7 @@ const LeftGreetings = () => {
             <GreetingsWords />
                 Jinx
             <GreetingsBar />
+                Great!
         </Container>
     );
 }
