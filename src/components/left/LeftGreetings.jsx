@@ -15,6 +15,7 @@ const LeftGreetings = () => {
                 Jinx
             <GreetingsBar />
                 Great!
+                Hulk?
         </Container>
     );
 }
