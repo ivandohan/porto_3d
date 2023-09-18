@@ -12,10 +12,8 @@ const LeftGreetings = () => {
     return (
         <Container>
             <GreetingsWords />
-                Jinx
+                Jinxx
             <GreetingsBar />
-                Great!
-                Hulk?
         </Container>
     );
 }
