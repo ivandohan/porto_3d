@@ -13,6 +13,7 @@ const LeftGreetings = () => {
         <Container>
             <GreetingsWords />
                 Jinxx
+                Greetings
             <GreetingsBar />
         </Container>
     );
